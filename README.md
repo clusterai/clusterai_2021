@@ -1,6 +1,5 @@
 # clusterai_2021
 
-Clases grabadas https://drive.google.com/drive/folders/1QxDKVhP1-FkBX-OwvqnN3ierbIAOF_PQ?usp=sharing 
 
 
 
@@ -15,6 +14,9 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 | --- | ----------- |
 | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
 | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
+
+## Clases Grabadas
+[Link a clases grabadas](Clases grabadas https://drive.google.com/drive/folders/1QxDKVhP1-FkBX-OwvqnN3ierbIAOF_PQ?usp=sharing)
 
 ## Contenido:
 
