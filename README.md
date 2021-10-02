@@ -1,8 +1,3 @@
-# clusterai_2021
-
-
-
-
 # *ClusterAI UTN.BA: Ciencia de Datos con Python*
 Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la ciencia de datos utilizados en el curso I5521 de Ingenieria Industrial UTN FRBA. 
 
@@ -26,5 +21,9 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 | 01 | [Slides Distribuciones de Probabilidad y variables aleatorias](https://github.com/clusterai/clusterai_2021/blob/main/clase01/clusterai_2021_clase01.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
 |    | [Notebook Analisis Exploratorio de Datos: Google Play](https://github.com/clusterai/clusterai_2021/blob/main/clase01/clusterai_2021_clase01_EDA_google_play_store.ipynb)                | Analisis Exploratorio de Datos | Codigo |
 | 02 | [Slides Teorema de Bayes y Preprocesamiento de datos](https://github.com/clusterai/clusterai_2021/blob/main/clase02/clusterai_2021_clase02_presentacion.pdf)                                                                                  | Intro a la Ciencia de Datos | Teoría |
-|    | [Notebook Analisis Exploratorio de Datos: Google Play](https://github.com/clusterai/clusterai_2021/blob/main/clase02/clusterai_2021_clase02_eda_airbnb.ipynb)                | Analisis Exploratorio de Datos | Codigo |
+|    | [Notebook Analisis Exploratorio de Datos: AirBnB](https://github.com/clusterai/clusterai_2021/blob/main/clase02/clusterai_2021_clase02_eda_airbnb.ipynb)                | Analisis Exploratorio de Datos | Codigo |
 |    | [Notebook Analisis Exploratorio de Datos: Subtes](https://github.com/clusterai/clusterai_2021/blob/main/clase02/clusterai_2021_clase02_eda_subtes.ipynb)                | Analisis Exploratorio de Datos | Codigo |
+| 03 | [Notebook Analisis Exploratorio de Datos en Google Colab: AirBnB](https://github.com/clusterai/clusterai_2021/blob/main/clase03/clusterai_2021_clase03_eda_airbnb_colab.ipynb)                                                                                  | Analisis Exploratorio de Datos | Codigo |
+|    | [Notebook Analisis Exploratorio de Datos: EPH](https://github.com/clusterai/clusterai_2021/blob/main/clase03/clusterai_2021_clase03_eda_EPH.ipynb)                | Analisis Exploratorio de Datos | Codigo |
+| 02 | [Slides aprendizaje supervisado: Clasificacion](https://github.com/clusterai/clusterai_2021/blob/main/clase04/clusterai_2021_clase03_presentacion.pdf)                                                                                  | Aprendizaje Supervisado: Clasificacion | Teoría |
+
