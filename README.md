@@ -1,5 +1,5 @@
 # *ClusterAI UTN.BA: Ciencia de Datos con Python*
-Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la ciencia de datos utilizados en el curso I5521 de Ingenieria Industrial UTN FRBA. 
+Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la ciencia de datos utilizados en el curso I5521 de Ingenieria Industrial UTN FRBA. Material publicado bajo licencia GPL-3.0, citar github.com/clusterai en caso de utilizar estos recursos. 
 
 Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 
