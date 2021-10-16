@@ -1,0 +1,6 @@
+- Presentacion clusterai_2021_clase07_presentacion.pdf
+- Ejercicio en Python de clustering con datos sinteticos: clusterai_2021_clase07_clustering_toy_examples.ipynb 
+- Ejercicio en Python de clustering con datos de credito bancario: clusterai_2021_clase07_clustering_credit.ipynb
+- Dataset de credito bancario: clusterai_2021_clase07_dataset_credit.csv
+- Ejercicio en Python Clasificacion Titanic: ClusterAI_Clasificacion_Titanic_Ejercicio.ipynb
+- Dataset Titanic db_titanic.csv 
