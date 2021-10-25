@@ -7,7 +7,7 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 - Introduction to Statistical Learning https://www.statlearning.com/
 - Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
 - Deep Learning Book https://www.deeplearningbook.org/
-- [Machine Learning and Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [Bishop: Machine Learning and Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ## Primeros pasos Python:
 
