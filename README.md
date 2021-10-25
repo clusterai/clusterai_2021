@@ -39,7 +39,7 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 |    | [Notebook Clasificacion: Ejercicio dataset Titanic](https://github.com/clusterai/clusterai_2021/blob/main/clase05/clusterai_2021_clasificacion_ejercicio.ipynb)                | Aprendizaje Supervisado: Clasificacion | Codigo |
 | 06 | [Slides aprendizaje supervisado: Regresion](https://github.com/clusterai/clusterai_2021/blob/main/clase06/clusterai_clase06_regresion_prez.pdf)                                                 | Aprendizaje Supervisado: Regresion | Teoría |
 | 07 | [Slides aprendizaje no supervisado: Clustering](https://github.com/clusterai/clusterai_2021/blob/main/clase07/clusterai_2021_clase07_presentacion.pdf)                                                 | Aprendizaje No Supervisado: Clustering | Teoría |
-| 08 | Slides aprendizaje no supervisado: Reduccion de la dimensionalidad                                                 | Aprendizaje No Supervisado: Reduccion de la dimensionalidad | Teoría |
+| 08 | [Slides aprendizaje no supervisado: Reduccion de la dimensionalidad](https://github.com/clusterai/clusterai_2021/blob/main/clase08/clusterai_2021_clase08_presentacion.pdf)                                                 | Aprendizaje No Supervisado: Reduccion de la dimensionalidad | Teoría |
 | 09 | Introduccion a Redes Neuronales                                                 | Redes neuronales | Teoría |
 | 10 | Redes Neuronales                                                 | Redes neuronales | Teoría |
 | 11 | Autoencoders                                                 | Redes neuronales | Teoría |
