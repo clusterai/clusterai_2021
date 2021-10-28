@@ -7,7 +7,7 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 - Introduction to Statistical Learning https://www.statlearning.com/
 - Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
 - Deep Learning Book https://www.deeplearningbook.org/
-- [Machine Learning and Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [Bishop: Machine Learning and Pattern Recognition](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 ## Primeros pasos Python:
 
@@ -37,9 +37,9 @@ Docentes: Martin Palazzo, Nicolas Aguirre, Santiago Chas.
 | 05 | [Slides aprendizaje supervisado: Clasificacion](https://github.com/clusterai/clusterai_2021/blob/main/clase05/clusterai_2021_clase05_clasificacion_.pdf)                                                                                  | Aprendizaje Supervisado: Clasificacion | Teoría |
 |    | [Notebook Clasificacion: Toy example Safari de Clasificadores](https://github.com/clusterai/clusterai_2021/blob/main/clase05/clusterai2021_clase05_classificacion_.ipynb)                | Aprendizaje Supervisado: Clasificacion | Codigo |
 |    | [Notebook Clasificacion: Ejercicio dataset Titanic](https://github.com/clusterai/clusterai_2021/blob/main/clase05/clusterai_2021_clasificacion_ejercicio.ipynb)                | Aprendizaje Supervisado: Clasificacion | Codigo |
-| 06 | Slides aprendizaje supervisado: Regresion                                                 | Aprendizaje Supervisado: Regresion | Teoría |
-| 07 | Slides aprendizaje no supervisado: Clustering                                                 | Aprendizaje No Supervisado: Clustering | Teoría |
-| 08 | Slides aprendizaje no supervisado: Reduccion de la dimensionalidad                                                 | Aprendizaje No Supervisado: Reduccion de la dimensionalidad | Teoría |
+| 06 | [Slides aprendizaje supervisado: Regresion](https://github.com/clusterai/clusterai_2021/blob/main/clase06/clusterai_clase06_regresion_prez.pdf)                                                 | Aprendizaje Supervisado: Regresion | Teoría |
+| 07 | [Slides aprendizaje no supervisado: Clustering](https://github.com/clusterai/clusterai_2021/blob/main/clase07/clusterai_2021_clase07_presentacion.pdf)                                                 | Aprendizaje No Supervisado: Clustering | Teoría |
+| 08 | [Slides aprendizaje no supervisado: Reduccion de la dimensionalidad](https://github.com/clusterai/clusterai_2021/blob/main/clase08/clusterai_2021_clase08_presentacion.pdf)                                                 | Aprendizaje No Supervisado: Reduccion de la dimensionalidad | Teoría |
 | 09 | Introduccion a Redes Neuronales                                                 | Redes neuronales | Teoría |
 | 10 | Redes Neuronales                                                 | Redes neuronales | Teoría |
 | 11 | Autoencoders                                                 | Redes neuronales | Teoría |
